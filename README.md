@@ -1,10 +1,12 @@
-# Free Cybersecurity Roadmaps
+# Free Cybersecurity Paths
 
-An organized collection of **free** and structured cybersecurity learning paths designed to guide learners from **beginner** to **expert** level. This repo is split into two main parts:
+An organized collection of **free** and structured cybersecurity learning paths designed to guide learners from **beginner** to **expert** level.
+
+This repo is split into two main parts:
 
 ---
 
-## 1. Ready-to-Follow Roadmap
+## 1. Ready-to-Follow Path
 
 A comprehensive, step-by-step learning path covering major cybersecurity concepts and skills.  
 This roadmap takes learners from foundational knowledge to advanced topics, combining learning and hands-on practice in a clear path.
