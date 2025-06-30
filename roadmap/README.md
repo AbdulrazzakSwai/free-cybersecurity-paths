@@ -19,7 +19,7 @@ This directory contains a **ready-to-follow, structured learning path** designed
 Learn the basics of IT, including computer hardware and software, operating systems (Windows and Linux), virtualization, networking fundamentals, and Active Directory (AD).
 
 ### Level 2: Core Security Skills  
-Grasp the fundamentals of cybersecurity, including how different security domains operate, common threats and attacks, basics of cryptography, access control mechanisms, and key security frameworks.
+Grasp the fundamentals of cybersecurity, including the CIA triad, how different security domains operate, common threats and attacks, basics of cryptography, access control mechanisms, and key security frameworks.
 
 ### Level 3: Offensive & Defensive Security  
 Choose your path with focused skills in either offensive (red team) or defensive (blue team) cybersecurity.
