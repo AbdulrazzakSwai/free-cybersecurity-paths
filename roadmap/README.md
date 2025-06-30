@@ -15,20 +15,20 @@ This directory contains a **ready-to-follow, structured learning path** designed
 
 ## Roadmap Levels Overview
 
-### Level 1: Foundations  
+### [Level 1: Foundations](level-1-foundations.md)
 Learn the basics of IT, including computer hardware and software, operating systems (Windows and Linux), virtualization, networking fundamentals, and Active Directory (AD).
 
-### Level 2: Core Security Skills  
+### [Level 2: Core Security Skills](level-2-core-skills.md)
 Grasp the fundamentals of cybersecurity, including the CIA triad, how different security domains operate, common threats and attacks, basics of cryptography, access control mechanisms, and key security frameworks.
 
-### Level 3: Offensive & Defensive Security  
+### Level 3: Offensive & Defensive Security
 Choose your path with focused skills in either offensive (red team) or defensive (blue team) cybersecurity.
 
 **Offensive path** includes topics like hacking methodology and the stages of hacking, network hacking, Active Directory exploitation, web application attacks, wireless attacks, and professional report writing.
 
 **Defensive path** includes topics such as security operations fundamentals, phishing analysis, network security, endpoint protection, SIEM, cyber threat intelligence (CTI), and digital forensics and incident response (DFIR).
 
-### Level 4: Certifications & Specializations  
+### Level 4: Certifications & Specializations
 Explore advanced topics and prepare for hands-on certifications.  
 While most certifications are paid, I've selected **affordable, high-value, and fully practical options** that are well-suited for self-learners.
 
